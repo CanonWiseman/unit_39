@@ -1,0 +1,16 @@
+.Pokedex-title{
+    color: gray;
+}
+
+.Pokedex-body{
+    list-style: none;
+}
+
+.Pokedex-card{
+    display: inline-block;
+    width: 200px;
+    margin-right: 250px;
+    margin-bottom: 40px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
